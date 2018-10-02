@@ -1,34 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomSite xmlns="http://soap.sforce.com/2006/04/metadata">
     <active>true</active>
-    <allowHomePage>true</allowHomePage>
-    <allowStandardIdeasPages>true</allowStandardIdeasPages>
-    <allowStandardLookups>true</allowStandardLookups>
+    <allowHomePage>false</allowHomePage>
+    <allowStandardAnswersPages>false</allowStandardAnswersPages>
+    <allowStandardIdeasPages>false</allowStandardIdeasPages>
+    <allowStandardLookups>false</allowStandardLookups>
     <allowStandardPortalPages>true</allowStandardPortalPages>
-    <allowStandardSearch>true</allowStandardSearch>
-    <authorizationRequiredPage>Unauthorized</authorizationRequiredPage>
-    <bandwidthExceededPage>BandwidthExceeded</bandwidthExceededPage>
-    <changePasswordPage>ChangePassword</changePasswordPage>
-    <chatterAnswersForgotPasswordConfirmPage>ChatterAnswersForgotPasswordConfirm</chatterAnswersForgotPasswordConfirmPage>
-    <chatterAnswersForgotPasswordPage>ChatterAnswersForgotPassword</chatterAnswersForgotPasswordPage>
-    <chatterAnswersHelpPage>ChatterAnswersHelp</chatterAnswersHelpPage>
-    <chatterAnswersLoginPage>ChatterAnswersLogin</chatterAnswersLoginPage>
-    <chatterAnswersRegistrationPage>ChatterAnswersRegistration</chatterAnswersRegistrationPage>
+    <allowStandardSearch>false</allowStandardSearch>
+    <authorizationRequiredPage>EXT_CommunitiesLoginPage</authorizationRequiredPage>
+    <bandwidthExceededPage>EXT_CommunityMaintenanceErrorPage</bandwidthExceededPage>
+    <changePasswordPage>EXT_ResetPassword</changePasswordPage>
     <clickjackProtectionLevel>SameOriginOnly</clickjackProtectionLevel>
-    <customWebAddresses>
-      <domainName>www.testing123.com</domainName>
-      <primary>true</primary>
-    </customWebAddress>
-    <favoriteIcon>myFavIcon</favoriteIcon>
-    <fileNotFoundPage>FileNotFound</fileNotFoundPage>
-    <genericErrorPage>Exception</genericErrorPage>
-    <inMaintenancePage>InMaintenance</inMaintenancePage>
-    <serverIsDown>MyServerDownResource</serverIsDown>
-    <indexPage>UnderConstruction</indexPage>
-    <masterLabel>customSite</masterLabel>
-    <portal>Customer Portal</portal>
+    <fileNotFoundPage>EXT_CommunityNotFoundErrorPage</fileNotFoundPage>
+    <genericErrorPage>EXT_CommunityNotFoundErrorPage</genericErrorPage>
+    <inMaintenancePage>EXT_CommunityMaintenanceErrorPage</inMaintenancePage>
+    <inactiveIndexPage>CommunitiesLogin</inactiveIndexPage>
+    <indexPage>CommunitiesLogin</indexPage>
+    <masterLabel>ECom</masterLabel>
+    <requireHttps>true</requireHttps>
     <requireInsecurePortalAccess>false</requireInsecurePortalAccess>
-    <siteAdmin>admin@myco.org</siteAdmin>
-    <siteTemplate>SiteTemplate</siteTemplate>
-    <subdomain>myco</subdomain>
+    <siteAdmin>my-admin@email.com</siteAdmin>
+    <siteType>ChatterNetwork</siteType>
+    <subdomain>communitydev</subdomain>
+    <urlPathPrefix>ecom</urlPathPrefix>
 </CustomSite>

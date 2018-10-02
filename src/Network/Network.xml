@@ -143,7 +143,7 @@
     </reputationPointsRules>
     <selfRegistration>false</selfRegistration>
     <sendWelcomeEmail>true</sendWelcomeEmail>
-    <site>Network_11</site>
+    <site>ECom</site>
     <status>UnderConstruction</status>
     <tabs>
         <defaultTab>Chatter</defaultTab>
@@ -167,6 +167,6 @@
         <standardTab>report</standardTab>
         <standardTab>Solution</standardTab>
     </tabs>
-    <urlPathPrefix>network1</urlPathPrefix>
+    <urlPathPrefix>ecom</urlPathPrefix>
     <welcomeTemplate>unfiled$public/CommunityWelcomeEmailTemplate</welcomeTemplate>
 </Network>
