@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomSite xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <allowHomePage>true</allowHomePage>
+    <allowStandardIdeasPages>true</allowStandardIdeasPages>
+    <allowStandardLookups>true</allowStandardLookups>
+    <allowStandardPortalPages>true</allowStandardPortalPages>
+    <allowStandardSearch>true</allowStandardSearch>
+    <authorizationRequiredPage>Unauthorized</authorizationRequiredPage>
+    <bandwidthExceededPage>BandwidthExceeded</bandwidthExceededPage>
+    <changePasswordPage>ChangePassword</changePasswordPage>
+    <chatterAnswersForgotPasswordConfirmPage>ChatterAnswersForgotPasswordConfirm</chatterAnswersForgotPasswordConfirmPage>
+    <chatterAnswersForgotPasswordPage>ChatterAnswersForgotPassword</chatterAnswersForgotPasswordPage>
+    <chatterAnswersHelpPage>ChatterAnswersHelp</chatterAnswersHelpPage>
+    <chatterAnswersLoginPage>ChatterAnswersLogin</chatterAnswersLoginPage>
+    <chatterAnswersRegistrationPage>ChatterAnswersRegistration</chatterAnswersRegistrationPage>
+    <clickjackProtectionLevel>SameOriginOnly</clickjackProtectionLevel>
+    <customWebAddresses>
+      <domainName>www.testing123.com</domainName>
+      <primary>true</primary>
+    </customWebAddress>
+    <favoriteIcon>myFavIcon</favoriteIcon>
+    <fileNotFoundPage>FileNotFound</fileNotFoundPage>
+    <genericErrorPage>Exception</genericErrorPage>
+    <inMaintenancePage>InMaintenance</inMaintenancePage>
+    <serverIsDown>MyServerDownResource</serverIsDown>
+    <indexPage>UnderConstruction</indexPage>
+    <masterLabel>customSite</masterLabel>
+    <portal>Customer Portal</portal>
+    <requireInsecurePortalAccess>false</requireInsecurePortalAccess>
+    <siteAdmin>admin@myco.org</siteAdmin>
+    <siteTemplate>SiteTemplate</siteTemplate>
+    <subdomain>myco</subdomain>
+</CustomSite>
