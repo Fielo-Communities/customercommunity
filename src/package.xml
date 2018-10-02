@@ -5,7 +5,7 @@
         <name>CustomSite</name>
     </types>
     <types>
-        <members>ECom</members>
+        <members>*</members>
         <name>Network</name>
     </types>
     <types>
