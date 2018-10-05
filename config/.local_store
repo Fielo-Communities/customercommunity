@@ -1,4 +1,18 @@
 {
+    "HCC_18_1_2.communityThemeDefinition": {
+        "createdById": "0050b0000032fMTAAY",
+        "createdByName": "Eric Salama",
+        "createdDate": "2018-10-05T18:14:40.000Z",
+        "fileName": "unpackaged/communityThemeDefinitions/HCC_18_1_2.communityThemeDefinition",
+        "fullName": "HCC_18_1_2",
+        "id": "05l0b000000CfFSAA0",
+        "lastModifiedById": "0050b0000032fMTAAY",
+        "lastModifiedByName": "Eric Salama",
+        "lastModifiedDate": "2018-10-05T18:14:40.000Z",
+        "manageableState": "unmanaged",
+        "type": "CommunityThemeDefinition",
+        "mmState": "clean"
+    },
     "HCC_18_1_2.communityTemplateDefinition": {
         "createdById": "0050b0000032fMTAAY",
         "createdByName": "Eric Salama",

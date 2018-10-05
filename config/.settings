@@ -8,6 +8,7 @@
     "instanceUrl": "https://na57.salesforce.com",
     "workspace": "C:\\Users\\admin\\Documents",
     "subscription": [
-        "CommunityTemplateDefinition"
+        "CommunityTemplateDefinition",
+        "CommunityThemeDefinition"
     ]
 }
