@@ -1,2 +1,3 @@
-# CIP-Communities
-Fielo communities
+# Communities
+Fielo Customer Communitiy
+
