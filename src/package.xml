@@ -4,5 +4,9 @@
         <members>HCC_18_1_2</members>
         <name>CommunityTemplateDefinition</name>
     </types>
+    <types>
+        <members>HCC_18_1_2</members>
+        <name>CommunityThemeDefinition</name>
+    </types>
     <version>41.0</version>
 </Package>
