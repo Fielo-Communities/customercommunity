@@ -13,7 +13,45 @@
         <name>CommunityThemeDefinition</name>
     </types>
     <types>
+        <members>HCC_18_1_2_Account_Management</members>
+        <members>HCC_18_1_2_Check_Password</members>
+        <members>HCC_18_1_2_Contact_Support</members>
+        <members>HCC_18_1_2_Create_Record</members>
+        <members>HCC_18_1_2_Dashboard_Detail</members>
+        <members>HCC_18_1_2_Dashboard_List</members>
+        <members>HCC_18_1_2_Dashboard_Related_List</members>
+        <members>HCC_18_1_2_Error</members>
+        <members>HCC_18_1_2_Feed_Detail</members>
+        <members>HCC_18_1_2_File_Detail</members>
+        <members>HCC_18_1_2_File_List</members>
+        <members>HCC_18_1_2_File_Related_List</members>
+        <members>HCC_18_1_2_Forgot_Password</members>
+        <members>HCC_18_1_2_Home</members>
+        <members>HCC_18_1_2_Incentives</members>
+        <members>HCC_18_1_2_Invoices</members>
+        <members>HCC_18_1_2_Learning</members>
+        <members>HCC_18_1_2_Login</members>
+        <members>HCC_18_1_2_Login_Error</members>
+        <members>HCC_18_1_2_Messages</members>
+        <members>HCC_18_1_2_Question_Detail</members>
+        <members>HCC_18_1_2_Record_Detail</members>
+        <members>HCC_18_1_2_Record_List</members>
+        <members>HCC_18_1_2_Register</members>
+        <members>HCC_18_1_2_Related_Record_List</members>
+        <members>HCC_18_1_2_Report_Detail</members>
         <members>HCC_18_1_2_Report_List</members>
+        <members>HCC_18_1_2_Report_Related_List</members>
+        <members>HCC_18_1_2_Resources</members>
+        <members>HCC_18_1_2_Rewards</members>
+        <members>HCC_18_1_2_Search</members>
+        <members>HCC_18_1_2_Sfdc_Page</members>
+        <members>HCC_18_1_2_Topic_Catalog</members>
+        <members>HCC_18_1_2_Topic_Detail</members>
+        <members>HCC_18_1_2_User_List</members>
+        <members>HCC_18_1_2_User_Profile</members>
+        <members>HCC_18_1_2_User_Related_List</members>
+        <members>HCC_18_1_2_User_Settings</members>
+        <members>HCC_18_1_2_themeLayout_Default</members>
         <members>HCC_18_1_2_themeLayout_Home</members>
         <members>HCC_18_1_2_themeLayout_Login</members>
         <name>FlexiPage</name>
