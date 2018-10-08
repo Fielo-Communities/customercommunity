@@ -8,7 +8,9 @@
     "instanceUrl": "https://na57.salesforce.com",
     "workspace": "C:\\Users\\admin\\Documents",
     "subscription": [
+        "BrandingSet",
         "CommunityTemplateDefinition",
-        "CommunityThemeDefinition"
+        "CommunityThemeDefinition",
+        "FlexiPage"
     ]
 }

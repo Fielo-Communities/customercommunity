@@ -1,4 +1,46 @@
 {
+    "HCC_18_1_2_Report_List.flexipage": {
+        "createdById": "0050b0000032fMTAAY",
+        "createdByName": "Eric Salama",
+        "createdDate": "2018-10-05T18:14:35.000Z",
+        "fileName": "unpackaged/flexipages/HCC_18_1_2_Report_List.flexipage",
+        "fullName": "HCC_18_1_2_Report_List",
+        "id": "0M00b000000gdYZCAY",
+        "lastModifiedById": "0050b0000032fMTAAY",
+        "lastModifiedByName": "Eric Salama",
+        "lastModifiedDate": "2018-10-05T18:14:35.000Z",
+        "manageableState": "unmanaged",
+        "type": "FlexiPage",
+        "mmState": "clean"
+    },
+    "HCC_18_1_2_themeLayout_Login.flexipage": {
+        "createdById": "0050b0000032fMTAAY",
+        "createdByName": "Eric Salama",
+        "createdDate": "2018-10-05T18:14:34.000Z",
+        "fileName": "unpackaged/flexipages/HCC_18_1_2_themeLayout_Login.flexipage",
+        "fullName": "HCC_18_1_2_themeLayout_Login",
+        "id": "0M00b000000gdYYCAY",
+        "lastModifiedById": "0050b0000032fMTAAY",
+        "lastModifiedByName": "Eric Salama",
+        "lastModifiedDate": "2018-10-05T18:14:34.000Z",
+        "manageableState": "unmanaged",
+        "type": "FlexiPage",
+        "mmState": "clean"
+    },
+    "HCC_18_1_2_themeLayout_Home.flexipage": {
+        "createdById": "0050b0000032fMTAAY",
+        "createdByName": "Eric Salama",
+        "createdDate": "2018-10-05T18:14:37.000Z",
+        "fileName": "unpackaged/flexipages/HCC_18_1_2_themeLayout_Home.flexipage",
+        "fullName": "HCC_18_1_2_themeLayout_Home",
+        "id": "0M00b000000gdYpCAI",
+        "lastModifiedById": "0050b0000032fMTAAY",
+        "lastModifiedByName": "Eric Salama",
+        "lastModifiedDate": "2018-10-05T18:14:37.000Z",
+        "manageableState": "unmanaged",
+        "type": "FlexiPage",
+        "mmState": "clean"
+    },
     "HCC_18_1_2.communityThemeDefinition": {
         "createdById": "0050b0000032fMTAAY",
         "createdByName": "Eric Salama",
@@ -11,6 +53,20 @@
         "lastModifiedDate": "2018-10-05T18:14:40.000Z",
         "manageableState": "unmanaged",
         "type": "CommunityThemeDefinition",
+        "mmState": "clean"
+    },
+    "HCC_18_1_2.brandingSet": {
+        "createdById": "0050b0000032fMTAAY",
+        "createdByName": "Eric Salama",
+        "createdDate": "2018-10-05T18:14:39.000Z",
+        "fileName": "unpackaged/brandingSets/HCC_18_1_2.brandingSet",
+        "fullName": "HCC_18_1_2",
+        "id": "0Lw0b00000002vcCAA",
+        "lastModifiedById": "0050b0000032fMTAAY",
+        "lastModifiedByName": "Eric Salama",
+        "lastModifiedDate": "2018-10-05T18:14:39.000Z",
+        "manageableState": "unmanaged",
+        "type": "BrandingSet",
         "mmState": "clean"
     },
     "HCC_18_1_2.communityTemplateDefinition": {
