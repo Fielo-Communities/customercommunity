@@ -55,6 +55,20 @@
         "type": "FlexiPage",
         "mmState": "clean"
     },
+    "HCC_18_1_2_Search.flexipage": {
+        "createdById": "0050b0000032fMTAAY",
+        "createdByName": "Eric Salama",
+        "createdDate": "2018-10-05T18:14:38.000Z",
+        "fileName": "unpackaged/flexipages/HCC_18_1_2_Search.flexipage",
+        "fullName": "HCC_18_1_2_Search",
+        "id": "0M00b000000gdZ1CAI",
+        "lastModifiedById": "0050b0000032fMTAAY",
+        "lastModifiedByName": "Eric Salama",
+        "lastModifiedDate": "2018-10-05T18:14:38.000Z",
+        "manageableState": "unmanaged",
+        "type": "FlexiPage",
+        "mmState": "clean"
+    },
     "HCC_18_1_2_Topic_Catalog.flexipage": {
         "createdById": "0050b0000032fMTAAY",
         "createdByName": "Eric Salama",
