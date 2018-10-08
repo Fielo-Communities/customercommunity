@@ -2,11 +2,21 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>HCC_18_1_2</members>
+        <name>BrandingSet</name>
+    </types>
+    <types>
+        <members>HCC_18_1_2</members>
         <name>CommunityTemplateDefinition</name>
     </types>
     <types>
         <members>HCC_18_1_2</members>
         <name>CommunityThemeDefinition</name>
+    </types>
+    <types>
+        <members>HCC_18_1_2_Report_List</members>
+        <members>HCC_18_1_2_themeLayout_Home</members>
+        <members>HCC_18_1_2_themeLayout_Login</members>
+        <name>FlexiPage</name>
     </types>
     <version>41.0</version>
 </Package>
