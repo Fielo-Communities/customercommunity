@@ -61,7 +61,7 @@
         <name>StaticResource</name>
     </types>
 	<types>
-        <members>Fielo Customer Community</members>
+        <members>*</members>
         <name>Profile</name>
     </types>
     <version>43.0</version>
