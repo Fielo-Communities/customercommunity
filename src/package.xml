@@ -57,7 +57,7 @@
         <name>FlexiPage</name>
     </types>
 	<types>
-        <members>siteAsset_800b9a0529234a3e90353aa4045ea8fc</members>
+        <members>*</members>
         <name>StaticResource</name>
     </types>
 	<types>
