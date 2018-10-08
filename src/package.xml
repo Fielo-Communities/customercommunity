@@ -60,5 +60,9 @@
         <members>siteAsset_800b9a0529234a3e90353aa4045ea8fc</members>
         <name>StaticResource</name>
     </types>
+	<types>
+        <members>Fielo Customer Community</members>
+        <name>Profile</name>
+    </types>
     <version>43.0</version>
 </Package>
