@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <custom>true</custom>
-    <userLicense>Guest</userLicense>
+    <userLicense>Customer Community</userLicense>
     <userPermissions>
         <enabled>true</enabled>
         <name>AddDirectMessageMembers</name>
@@ -12,7 +12,19 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ContentWorkspaces</name>
+        <name>AssignTopics</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ChatterOwnGroups</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>CreateTopics</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>EditTopics</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -28,6 +40,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>RunFlow</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>SelectFilesFromSalesforce</name>
     </userPermissions>
     <userPermissions>
@@ -40,6 +56,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ViewAllUsers</name>
+        <name>WorkDotComUserPerm</name>
     </userPermissions>
 </Profile>
