@@ -68,5 +68,9 @@
         <members>Fielo Customer Community</members>
         <name>Profile</name>
     </types>
+	<types>
+        <members>*</members>
+        <name>ContentAsset</name>
+    </types>
     <version>43.0</version>
 </Package>
