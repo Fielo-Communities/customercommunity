@@ -72,5 +72,9 @@
         <members>*</members>
         <name>SiteDotCom</name>
     </types>
+	<types>
+        <members>*</members>
+        <name>Network</name>
+    </types>
     <version>43.0</version>
 </Package>
