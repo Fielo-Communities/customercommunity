@@ -68,17 +68,5 @@
         <members>Fielo Customer Community</members>
         <name>Profile</name>
     </types>
-	<types>
-        <members>*</members>
-        <name>Network</name>
-    </types>
-	<types>
-        <members>*</members>
-        <name>CustomSite</name>
-    </types>
-	<types>
-        <members>*</members>
-        <name>SiteDotCom</name>
-    </types>
     <version>43.0</version>
 </Package>
