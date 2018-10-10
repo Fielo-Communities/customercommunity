@@ -64,10 +64,10 @@
         <readable>true</readable>
     </fieldPermissions>
 	<objectPermissions>
-		<allowCreate>true</allowCreate>
+		<allowCreate>false</allowCreate>
 		<allowDelete>false</allowDelete>
-		<allowEdit>false</allowEdit>
-		<allowRead>false</allowRead>
+		<allowEdit>true</allowEdit>
+		<allowRead>true</allowRead>
 		<object>FieloPLT__Action__c</object>
 	</objectPermissions>
 </Profile>
