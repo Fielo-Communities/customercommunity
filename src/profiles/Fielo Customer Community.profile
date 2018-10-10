@@ -61,13 +61,13 @@
      <fieldPermissions>
         <editable>true</editable>
         <field>FieloPLT__Action__c.FieloPLT__Active__c</field>
-        <readable>true</readable>
+        <readable>false</readable>
     </fieldPermissions>
 	<objectPermissions>
 		<allowCreate>false</allowCreate>
 		<allowDelete>false</allowDelete>
 		<allowEdit>true</allowEdit>
-		<allowRead>false</allowRead>
+		<allowRead>true</allowRead>
 		<object>FieloPLT__Action__c</object>
 	</objectPermissions>
 </Profile>
