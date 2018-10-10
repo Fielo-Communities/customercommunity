@@ -61,7 +61,11 @@
 	
   
 	
-	
+	   <fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Badge__c.FieloPLT__ExternalId__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
 	<objectPermissions>
 		<allowCreate>false</allowCreate>
 		<allowDelete>false</allowDelete>
@@ -72,11 +76,7 @@
 	
 	
 	
-   <fieldPermissions>
-        <editable>false</editable>
-        <field>FieloPLT__Badge__c.FieloPLT__ExternalId__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
+
 	<objectPermissions>
 		<allowCreate>false</allowCreate>
 		<allowDelete>false</allowDelete>
