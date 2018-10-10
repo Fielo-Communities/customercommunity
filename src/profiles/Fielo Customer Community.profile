@@ -60,7 +60,7 @@
     </userPermissions>
      <fieldPermissions>
         <editable>true</editable>
-        <field>FieloPLT__Action__c.FieloPLT__Active__c</field>
+        <field>FieloPLT__Action__c.FieloPLT__CriteriaFields__c</field>
         <readable>true</readable>
     </fieldPermissions>
 	<objectPermissions>
