@@ -60,12 +60,12 @@
     </userPermissions>
 	
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>FieloPLT__Agreement__c.FieloPLT__Agreement__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>FieloPLT__Agreement__c.FieloPLT__ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -82,7 +82,7 @@
 	<objectPermissions>
 		<allowCreate>false</allowCreate>
 		<allowDelete>false</allowDelete>
-		<allowEdit>false</allowEdit>
+		<allowEdit>true</allowEdit>
 		<allowRead>true</allowRead>
 		<object>FieloPLT__Agreement__c</object>
 	</objectPermissions>
@@ -299,5 +299,7 @@
 		<allowRead>true</allowRead>
 		<object>FieloPLT__Transaction__c</object>
 	</objectPermissions>
+	
+	
 	
 </Profile>
