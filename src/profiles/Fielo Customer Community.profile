@@ -58,4 +58,11 @@
         <enabled>true</enabled>
         <name>WorkDotComUserPerm</name>
     </userPermissions>
+	<objectPermissions>
+		<allowCreate>false</allowCreate>
+		<allowDelete>false</allowDelete>
+		<allowEdit>false</allowEdit>
+		<allowRead>true</allowRead>
+		<object>FieloPLT__Agreement__c</object>
+	</objectPermissions>
 </Profile>
