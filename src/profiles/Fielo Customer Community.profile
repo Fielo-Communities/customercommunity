@@ -58,6 +58,11 @@
         <enabled>true</enabled>
         <name>WorkDotComUserPerm</name>
     </userPermissions>
+     <fieldPermissions>
+        <editable>true</editable>
+        <field>FieloPLT__Action__c.FieloPLT__Active__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
 	<objectPermissions>
 		<allowCreate>true</allowCreate>
 		<allowDelete>true</allowDelete>
@@ -65,9 +70,4 @@
 		<allowRead>false</allowRead>
 		<object>FieloPLT__Action__c</object>
 	</objectPermissions>
-	<fieldPermissions>
-	  <field>FieloPLT__Action__c.FieloPLT__Active__c</field>
-	  <editable>true</editable>
-	  <readable>true</readable>
-	</fieldPermissions>
 </Profile>
