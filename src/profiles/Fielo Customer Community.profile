@@ -59,24 +59,84 @@
         <name>WorkDotComUserPerm</name>
     </userPermissions>
 	
-  
-	
-	   <fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Agreement__c.FieloPLT__Agreement__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Agreement__c.FieloPLT__ExternalId__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Agreement__c.FieloPLT__Program__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+     <fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Agreement__c.FieloPLT__Status__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
         <editable>false</editable>
         <field>FieloPLT__Badge__c.FieloPLT__ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
-	<objectPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Badge__c.FieloPLT__Image__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Badge__c.FieloPLT__Program__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Badge__c.FieloPLT__Status__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__BadgeMember__c.FieloPLT__ChallengeReward__c</field>
+        <readable>true</readable>
+    </fieldPermissions>   
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__BadgeMember__c.FieloPLT__ExpirationDate__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+     <fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__BadgeMember__c.FieloPLT__Quantity__c</field>
+        <readable>true</readable>
+    </fieldPermissions>   
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__BadgeMember__c.FieloPLT__Rule__c</field>
+        <readable>true</readable>
+    </fieldPermissions> 
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__BadgeMember__c.FieloPLT__Status__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__BadgeMember__c.FieloPLT__Transaction__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    
+     <objectPermissions>
 		<allowCreate>false</allowCreate>
 		<allowDelete>false</allowDelete>
 		<allowEdit>false</allowEdit>
 		<allowRead>true</allowRead>
 		<object>FieloPLT__Agreement__c</object>
 	</objectPermissions>
-	
-	
-	
-
 	<objectPermissions>
 		<allowCreate>false</allowCreate>
 		<allowDelete>false</allowDelete>
@@ -84,9 +144,6 @@
 		<allowRead>true</allowRead>
 		<object>FieloPLT__Badge__c</object>
 	</objectPermissions>
-	
-
-
 	<objectPermissions>
 		<allowCreate>false</allowCreate>
 		<allowDelete>false</allowDelete>
