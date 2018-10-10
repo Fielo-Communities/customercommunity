@@ -59,7 +59,7 @@
         <name>WorkDotComUserPerm</name>
     </userPermissions>
      <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>FieloPLT__Action__c.FieloPLT__Active__c</field>
         <readable>true</readable>
     </fieldPermissions>
