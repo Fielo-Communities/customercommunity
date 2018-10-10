@@ -83,7 +83,7 @@
 		<allowCreate>false</allowCreate>
 		<allowDelete>false</allowDelete>
 		<allowEdit>false</allowEdit>
-		<allowRead>false</allowRead>
+		<allowRead>true</allowRead>
 		<object>FieloPLT__Agreement__c</object>
 	</objectPermissions>
 	
