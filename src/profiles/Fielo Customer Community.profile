@@ -67,7 +67,7 @@
 		<allowCreate>false</allowCreate>
 		<allowDelete>false</allowDelete>
 		<allowEdit>true</allowEdit>
-		<allowRead>true</allowRead>
+		<allowRead>false</allowRead>
 		<object>FieloPLT__Action__c</object>
 	</objectPermissions>
 </Profile>
