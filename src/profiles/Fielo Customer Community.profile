@@ -65,10 +65,9 @@
 		<allowRead>false</allowRead>
 		<object>FieloPLT__Action__c</object>
 	</objectPermissions>
-	 <fieldPermissions>
+	<fieldPermissions>
 	  <field>FieloPLT__Action__c.FieloPLT__Active__c</field>
 	  <editable>true</editable>
-	  <hidden>false</hidden>
 	  <readable>true</readable>
-	 </fieldPermissions>
+	</fieldPermissions>
 </Profile>
