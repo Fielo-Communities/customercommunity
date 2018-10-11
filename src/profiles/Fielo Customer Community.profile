@@ -346,6 +346,12 @@
     </fieldPermissions>
 	
 	
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Consent__c.FieloPLT__Code__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	
 	
      <objectPermissions>
 		<allowCreate>false</allowCreate>
