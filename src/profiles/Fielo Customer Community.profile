@@ -129,7 +129,76 @@
         <field>FieloPLT__BadgeMember__c.FieloPLT__Transaction__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    
+	
+	
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Challenge__c.FieloPLT__AcomplishAction__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Challenge__c.FieloPLT__DeliverRewards__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Challenge__c.FieloPLT__Description__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Challenge__c.FieloPLT__EndDate__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Challenge__c.FieloPLT__ExternalId__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Challenge__c.FieloPLT__MissionCounter__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Challenge__c.FieloPLT__Period__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Challenge__c.FieloPLT__IsProcessed__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Challenge__c.FieloPLT__Segment__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Challenge__c.FieloPLT__Status__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Challenge__c.FieloPLT__Subscription__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+		<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Challenge__c.FieloPLT__TableType__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	</fieldPermissions>
+		<fieldPermissions>
+        <editable>true</editable>
+        <field>FieloPLT__Challenge__c.FieloPLT__TrackerMode__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	
+	
      <objectPermissions>
 		<allowCreate>false</allowCreate>
 		<allowDelete>false</allowDelete>
