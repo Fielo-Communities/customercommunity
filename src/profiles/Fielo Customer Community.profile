@@ -351,6 +351,26 @@
         <field>FieloPLT__Consent__c.FieloPLT__Code__c</field>
         <readable>true</readable>
     </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Consent__c.FieloPLT__Description__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Consent__c.FieloPLT__ExternalId__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Consent__c.FieloPLT__Library__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__Consent__c.FieloPLT__MemberText__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
 	
 	
      <objectPermissions>
