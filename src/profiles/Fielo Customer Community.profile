@@ -366,11 +366,17 @@
         <field>FieloPLT__Consent__c.FieloPLT__Library__c</field>
         <readable>true</readable>
     </fieldPermissions>
+	
+	<!-- teste maluco -->
+	
 	<fieldPermissions>
         <editable>false</editable>
         <field>FieloPLT__Consent__c.FieloPLT__MemberText__c</field>
         <readable>true</readable>
     </fieldPermissions>
+	
+	
+	
 	
 	
      <objectPermissions>
