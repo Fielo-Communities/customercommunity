@@ -2,7 +2,7 @@
 <ContentAsset xmlns="http://soap.sforce.com/2006/04/metadata">
     <isVisibleByExternalUsers>false</isVisibleByExternalUsers>
     <language>en_US</language>
-    <masterLabel>H_Banner_Profile</masterLabel>
+    <masterLabel>HP_HeroBG</masterLabel>
     <originNetwork>Horizontal Customer Community</originNetwork>
     <relationships>
         <network>
@@ -18,7 +18,7 @@
     <versions>
         <version>
             <number>1</number>
-            <pathOnClient>H_Banner_Profile.png</pathOnClient>
+            <pathOnClient>HP_HeroBG.png</pathOnClient>
         </version>
     </versions>
 </ContentAsset>

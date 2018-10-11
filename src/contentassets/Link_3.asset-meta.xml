@@ -3,8 +3,12 @@
     <isVisibleByExternalUsers>false</isVisibleByExternalUsers>
     <language>en_US</language>
     <masterLabel>Link_3</masterLabel>
-    <originNetwork></originNetwork>
+    <originNetwork>Horizontal Customer Community</originNetwork>
     <relationships>
+        <network>
+            <access>VIEWER</access>
+            <name>Horizontal Customer Community</name>
+        </network>
         <workspace>
             <access>INFERRED</access>
             <isManagingWorkspace>true</isManagingWorkspace>
