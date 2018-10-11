@@ -186,13 +186,12 @@
         <field>FieloPLT__Challenge__c.FieloPLT__Subscription__c</field>
         <readable>true</readable>
     </fieldPermissions>
-		<fieldPermissions>
+	<fieldPermissions>
         <editable>false</editable>
         <field>FieloPLT__Challenge__c.FieloPLT__TableType__c</field>
         <readable>true</readable>
     </fieldPermissions>
-	</fieldPermissions>
-		<fieldPermissions>
+	<fieldPermissions>
         <editable>true</editable>
         <field>FieloPLT__Challenge__c.FieloPLT__TrackerMode__c</field>
         <readable>true</readable>
