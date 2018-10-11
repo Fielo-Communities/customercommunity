@@ -197,6 +197,39 @@
         <readable>true</readable>
     </fieldPermissions>
 	
+	<fieldPermissions>
+        <editable>true</editable>
+        <field>FieloPLT__ChallengeMember__c.FieloPLT__AlternativeKey__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>true</editable>
+        <field>FieloPLT__ChallengeMember__c.FieloPLT__ChallengeReward__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>true</editable>
+        <field>FieloPLT__ChallengeMember__c.FieloPLT__Counter__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>true</editable>
+        <field>FieloPLT__ChallengeMember__c.FieloPLT__Position__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>true</editable>
+        <field>FieloPLT__ChallengeMember__c.FieloPLT__Status__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>true</editable>
+        <field>FieloPLT__ChallengeMember__c.FieloPLT__Value__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	
+	
+	
 	
      <objectPermissions>
 		<allowCreate>false</allowCreate>
