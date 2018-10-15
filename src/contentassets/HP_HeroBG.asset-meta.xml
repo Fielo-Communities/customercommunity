@@ -3,12 +3,8 @@
     <isVisibleByExternalUsers>false</isVisibleByExternalUsers>
     <language>en_US</language>
     <masterLabel>HP_HeroBG</masterLabel>
-    <originNetwork>Horizontal Customer Community</originNetwork>
+    <originNetwork></originNetwork>
     <relationships>
-        <network>
-            <access>VIEWER</access>
-            <name>Horizontal Customer Community</name>
-        </network>
         <workspace>
             <access>INFERRED</access>
             <isManagingWorkspace>true</isManagingWorkspace>
