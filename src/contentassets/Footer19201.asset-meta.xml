@@ -5,6 +5,7 @@
     <masterLabel>Footer19201</masterLabel>
     <originNetwork></originNetwork>
     <relationships>
+
         <workspace>
             <access>INFERRED</access>
             <isManagingWorkspace>true</isManagingWorkspace>
