@@ -94,10 +94,6 @@
             </componentInstanceProperties>
             <componentName>FieloPLT:MyPromotions</componentName>
         </componentInstances>
-        <name>content</name>
-        <type>Region</type>
-    </flexiPageRegions>
-    <flexiPageRegions>
         <componentInstances>
             <componentInstanceProperties>
                 <name>columns</name>
@@ -185,6 +181,10 @@
             </componentInstanceProperties>
             <componentName>FieloPLT:Challenges</componentName>
         </componentInstances>
+        <name>content</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
         <name>sidebar</name>
         <type>Region</type>
     </flexiPageRegions>
@@ -211,7 +211,7 @@
     </flexiPageRegions>
     <masterLabel>Incentives</masterLabel>
     <template>
-        <name>siteforce:sldsTwoCol66Layout</name>
+        <name>siteforce:sldsOneColLayout</name>
     </template>
     <type>CommAppPage</type>
 </FlexiPage>
