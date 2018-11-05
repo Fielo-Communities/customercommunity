@@ -62,6 +62,9 @@
         <members>Fielo_Customer_Community_1_2_1_themeLayout_Default</members>
         <members>Fielo_Customer_Community_1_2_1_themeLayout_Home</members>
         <members>Fielo_Customer_Community_1_2_1_themeLayout_Login</members>
+        <members>Fielo_Customer_Community_Theme_themeLayout_Default</members>
+        <members>Fielo_Customer_Community_Theme_themeLayout_Home</members>
+        <members>Fielo_Customer_Community_Theme_themeLayout_Login</members>
         <members>Fielo_Customer_Community_themeLayout_Default</members>
         <members>Fielo_Customer_Community_themeLayout_Home</members>
         <members>Fielo_Customer_Community_themeLayout_Login</members>
