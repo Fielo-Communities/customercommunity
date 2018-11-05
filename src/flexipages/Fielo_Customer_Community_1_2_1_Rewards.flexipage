@@ -123,14 +123,14 @@
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>title</name>
-                <value>Reward</value>
+                <value>Rewards</value>
             </componentInstanceProperties>
             <componentName>forceCommunity:seoAssistant</componentName>
         </componentInstances>
         <name>sfdcHiddenRegion</name>
         <type>Region</type>
     </flexiPageRegions>
-    <masterLabel>Reward</masterLabel>
+    <masterLabel>Rewards</masterLabel>
     <template>
         <name>siteforce:sldsOneColLayout</name>
     </template>
