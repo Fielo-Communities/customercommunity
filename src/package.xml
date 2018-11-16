@@ -62,6 +62,9 @@
         <members>Fielo_Customer_Community_1_2_2_themeLayout_Default</members>
         <members>Fielo_Customer_Community_1_2_2_themeLayout_Home</members>
         <members>Fielo_Customer_Community_1_2_2_themeLayout_Login</members>
+		<members>Fielo_Customer_Community_Theme_themeLayout_Default</members>
+		<members>Fielo_Customer_Community_Theme_themeLayout_Home</members>
+		<members>Fielo_Customer_Community_Theme_themeLayout_Login</members>
         <name>FlexiPage</name>
     </types>
     <types>
