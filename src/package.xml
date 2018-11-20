@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>forgotPassword</members>
-        <members>loginForm</members>
-        <members>selfRegister</members>
-        <name>AuraDefinitionBundle</name>
-    </types>
-    <types>
-        <members>Fielo_Customer_Community_1_2_2</members>
+        <members>teste10</members>
         <name>BrandingSet</name>
     </types>
     <types>
@@ -15,11 +9,11 @@
         <name>Community</name>
     </types>
     <types>
-        <members>Fielo_Customer_Community_1_2_2</members>
+        <members>teste10</members>
         <name>CommunityTemplateDefinition</name>
     </types>
     <types>
-        <members>Fielo_Customer_Community_1_2_2</members>
+        <members>teste10</members>
         <name>CommunityThemeDefinition</name>
     </types>
     <types>
@@ -27,54 +21,50 @@
         <name>ContentAsset</name>
     </types>
     <types>
-        <members>Fielo_Customer_Community_1_2_2_Account_Management</members>
-        <members>Fielo_Customer_Community_1_2_2_Check_Password</members>
-        <members>Fielo_Customer_Community_1_2_2_Contact_Support</members>
-        <members>Fielo_Customer_Community_1_2_2_Create_Record</members>
-        <members>Fielo_Customer_Community_1_2_2_Dashboard_Detail</members>
-        <members>Fielo_Customer_Community_1_2_2_Dashboard_List</members>
-        <members>Fielo_Customer_Community_1_2_2_Dashboard_Related_List</members>
-        <members>Fielo_Customer_Community_1_2_2_Error</members>
-        <members>Fielo_Customer_Community_1_2_2_Feed_Detail</members>
-        <members>Fielo_Customer_Community_1_2_2_File_Detail</members>
-        <members>Fielo_Customer_Community_1_2_2_File_List</members>
-        <members>Fielo_Customer_Community_1_2_2_File_Related_List</members>
-        <members>Fielo_Customer_Community_1_2_2_Forgot_Password</members>
-        <members>Fielo_Customer_Community_1_2_2_Home</members>
-        <members>Fielo_Customer_Community_1_2_2_Incentives</members>
-        <members>Fielo_Customer_Community_1_2_2_Login</members>
-        <members>Fielo_Customer_Community_1_2_2_Login_Error</members>
-        <members>Fielo_Customer_Community_1_2_2_Messages</members>
-        <members>Fielo_Customer_Community_1_2_2_Question_Detail</members>
-        <members>Fielo_Customer_Community_1_2_2_Record_Detail</members>
-        <members>Fielo_Customer_Community_1_2_2_Record_List</members>
-        <members>Fielo_Customer_Community_1_2_2_Register</members>
-        <members>Fielo_Customer_Community_1_2_2_Related_Record_List</members>
-        <members>Fielo_Customer_Community_1_2_2_Report_Detail</members>
-        <members>Fielo_Customer_Community_1_2_2_Report_List</members>
-        <members>Fielo_Customer_Community_1_2_2_Report_Related_List</members>
-        <members>Fielo_Customer_Community_1_2_2_Resources</members>
-        <members>Fielo_Customer_Community_1_2_2_Rewards</members>
-        <members>Fielo_Customer_Community_1_2_2_Search</members>
-        <members>Fielo_Customer_Community_1_2_2_Sfdc_Page</members>
-        <members>Fielo_Customer_Community_1_2_2_Topic_Catalog</members>
-        <members>Fielo_Customer_Community_1_2_2_Topic_Detail</members>
-        <members>Fielo_Customer_Community_1_2_2_User_List</members>
-        <members>Fielo_Customer_Community_1_2_2_User_Profile</members>
-        <members>Fielo_Customer_Community_1_2_2_User_Related_List</members>
-        <members>Fielo_Customer_Community_1_2_2_User_Settings</members>
-        <members>Fielo_Customer_Community_1_2_2_themeLayout_Default</members>
-        <members>Fielo_Customer_Community_1_2_2_themeLayout_Home</members>
-        <members>Fielo_Customer_Community_1_2_2_themeLayout_Login</members>
+        <members>teste10_Account_Management</members>
+        <members>teste10_Check_Password</members>
+        <members>teste10_Contact_Support</members>
+        <members>teste10_Create_Record</members>
+        <members>teste10_Dashboard_Detail</members>
+        <members>teste10_Dashboard_List</members>
+        <members>teste10_Dashboard_Related_List</members>
+        <members>teste10_Error</members>
+        <members>teste10_Feed_Detail</members>
+        <members>teste10_File_Detail</members>
+        <members>teste10_File_List</members>
+        <members>teste10_File_Related_List</members>
+        <members>teste10_Forgot_Password</members>
+        <members>teste10_Home</members>
+        <members>teste10_Incentives</members>
+        <members>teste10_Login</members>
+        <members>teste10_Login_Error</members>
+        <members>teste10_Messages</members>
+        <members>teste10_Question_Detail</members>
+        <members>teste10_Record_Detail</members>
+        <members>teste10_Record_List</members>
+        <members>teste10_Register</members>
+        <members>teste10_Related_Record_List</members>
+        <members>teste10_Report_Detail</members>
+        <members>teste10_Report_List</members>
+        <members>teste10_Report_Related_List</members>
+        <members>teste10_Resources</members>
+        <members>teste10_Rewards</members>
+        <members>teste10_Search</members>
+        <members>teste10_Sfdc_Page</members>
+        <members>teste10_Topic_Catalog</members>
+        <members>teste10_Topic_Detail</members>
+        <members>teste10_User_List</members>
+        <members>teste10_User_Profile</members>
+        <members>teste10_User_Related_List</members>
+        <members>teste10_User_Settings</members>
+        <members>teste10_themeLayout_Default</members>
+        <members>teste10_themeLayout_Home</members>
+        <members>teste10_themeLayout_Login</members>
         <name>FlexiPage</name>
     </types>
     <types>
         <members>*</members>
         <name>StaticResource</name>
-    </types>
-		<types>
-        <members>Fielo Customer Community</members>
-        <name>Profile</name>
     </types>
     <version>43.0</version>
 </Package>
